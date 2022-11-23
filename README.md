@@ -9,7 +9,10 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 </ul>
 
 <h2>How to running</h2>
-## Cara menjalankan
+## Contoh Penggunaan Command Line
+Skenarionya kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
+Kamu lalu membuat salinan file tersebut ke file baru bernama `world.json`. Dan di akhir cerita, file tersebut kamu hapus.
+
 Buat folder bernama `hello`.
 ```terminal
 $ mkdir hello
@@ -17,6 +20,16 @@ $ mkdir hello
 Masuk ke folder bernama `hello`.
 ```terminal
 $ cd hello
+```
+
+Cari tahu info tentang direktori kerja yang digunakan saat ini.
+```terminal
+$ pwd
+```  
+
+Hasilnya:
+```terminal
+/home/yanu/hello
 ```
 
 
