@@ -13,6 +13,5 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 ```terminal
 $ sudo apt [nama_aplikasi]
 ```
-
-
+duuedue
 
