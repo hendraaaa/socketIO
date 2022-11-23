@@ -14,7 +14,7 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 
 
 ```terminal
-$ mkdir hello
+$ python index.py
 ```
 
 
