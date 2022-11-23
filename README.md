@@ -9,4 +9,4 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 </ul>
 
 <h2>How to running</h2>
-<p>python index.py</p>
+<b>python index.py</b>
