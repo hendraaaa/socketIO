@@ -3,5 +3,7 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 
 <h2>Requirement</h2>
 <ul>
-  <li>hfhfhf</li>
+  <li>python 3.X</li>
+  <li>flask-socketio</li>
+  <li>chartJS</li>
 </ul>
