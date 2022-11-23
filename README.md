@@ -9,14 +9,10 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 </ul>
 
 <h2>How to running</h2>
-## Cara Install Aplikasi
-
-Untuk menginstall aplikasi, perintah yang digunakan adalah:
+## Cara menjalankan
 ```terminal
 $ sudo apt [nama_aplikasi]
 ```
-
-`sudo` kependekan dari `SuperUserDo`. Digunakan untuk perintah yang memerlukan *`root's permission`*. `root` adalah user yang punya hak akses paling tinggi dalam sistem operasi ubuntu (administrator). 
 
 
 
