@@ -12,7 +12,7 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 ## cara menjalankan aplikasi
 
 
-Buat folder bernama `hello`.
+
 ```terminal
 $ mkdir hello
 ```
