@@ -9,6 +9,7 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 </ul>
 
 <h2>How to running</h2>
+Masuk ke folder bernama `hello`.
 ```terminal
-$ python index.py
+$ cd hello
 ```
