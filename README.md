@@ -10,8 +10,13 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 
 <h2>How to running</h2>
 ## Cara menjalankan
+Buat folder bernama `hello`.
 ```terminal
-$ sudo apt [nama_aplikasi]
+$ mkdir hello
 ```
-duuedue
+Masuk ke folder bernama `hello`.
+```terminal
+$ cd hello
+```
+
 
