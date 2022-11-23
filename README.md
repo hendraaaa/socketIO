@@ -7,3 +7,6 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
   <li>flask-socketio</li>
   <li>chartJS</li>
 </ul>
+
+<h2>How to running</h2>
+<p>python index.py</p>
