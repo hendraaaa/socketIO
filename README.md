@@ -9,7 +9,7 @@ project ini membuat visualisasi data IoT dengan menggunakan charJS sebagai libra
 </ul>
 
 <h2>How to running</h2>
-## Contoh Penggunaan Command Line
+## cara menjalankan aplikasi
 Skenarionya kamu akan membuat direktori bernama `hello`. Masuk ke dalamnya, lalu membuat file bernama `hello.json`. 
 Kamu lalu membuat salinan file tersebut ke file baru bernama `world.json`. Dan di akhir cerita, file tersebut kamu hapus.
 
