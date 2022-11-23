@@ -17,19 +17,6 @@ Buat folder bernama `hello`.
 ```terminal
 $ mkdir hello
 ```
-Masuk ke folder bernama `hello`.
-```terminal
-$ cd hello
-```
 
-Cari tahu info tentang direktori kerja yang digunakan saat ini.
-```terminal
-$ pwd
-```  
-
-Hasilnya:
-```terminal
-/home/yanu/hello
-```
 
 
